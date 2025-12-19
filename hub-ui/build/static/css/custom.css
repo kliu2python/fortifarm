@@ -1,0 +1,6 @@
+a[href*="ko-fi"],
+a[href*="github.com/shamanec"],
+a[href*="discord.gg"],
+a[href*="/appium-reports"]{
+  display: none !important;
+}
